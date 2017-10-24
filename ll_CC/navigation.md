@@ -21,7 +21,7 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
-
+[Test 1](pages/file-to-test.md)
 <!-- A more complex navigation example: ----------------------------------------
 
 [Menu Item 1]()
